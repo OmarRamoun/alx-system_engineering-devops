@@ -1,6 +1,8 @@
 #!/bin/bash
 
 
-mkdir welcome
-mkdir welcom/to
-mkdir welcome/to/school
+  mkdir welcome
+  cd welcome
+  mkdir to
+  cd to
+  mkdir school
